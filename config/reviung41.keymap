@@ -22,7 +22,7 @@
             bindings = <
 &kp Q      &kp W  &kp E  &kp R  &kp T  &kp ESC                       &kp SEMICOLON  &kp Y      &kp U   &kp I      &kp O       &kp P
 &kp A      &kp S  &kp D  &kp F  &kp G  &kp TAB                       &kp SQT        &kp H      &kp J   &kp K      &kp L       &kp ENTER
-&kp LS(Z)  &kp X  &kp C  &kp V  &kp B  &bt BT_CLR                    &kp LALT       &kp N      &kp M   &kp COMMA  &kp PERIOD  &mt RS(LS(SLASH)) RET
+&kp LS(Z)  &kp X  &kp C  &kp V  &kp A  &bt BT_CLR                    &kp LALT       &kp N      &kp M   &kp COMMA  &kp PERIOD  &mt RS(LS(SLASH)) RET
                          &mo 2  &mo 1              &kp LEFT_CONTROL                 &kp SPACE  &kp F2
             >;
         };
